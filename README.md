@@ -56,3 +56,11 @@ python scripts/mortality_analysis.py
 - pandas
 - matplotlib
 - plotnine
+
+
+## Code of Conduct
+Please adhere to the Code of Conduct when contributing to the project.
+
+## Contact
+- **Email**: [palvi.pantawane22@pccoepune.org](mailto:palvi.pantawane22@pccoepune.org)
+- **GitHub**: [palvi22](https://github.com/palvi22)
